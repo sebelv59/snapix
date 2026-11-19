@@ -14,15 +14,6 @@ SUR MAC (macOS 13 ou plus récent)
 Raccourcis : Option+Maj+4 = zone, Option+Maj+5 = fenêtre, Option+Maj+3 = plein écran,
 Option+Maj+2 = copier le texte d'une zone. Icône appareil photo dans la barre des menus.
 
-SUR WINDOWS (10 ou 11) — aucun droit administrateur nécessaire
-1. Téléchargez « Snapix-Setup-Windows.exe » et ouvrez-le.
-2. Si Windows affiche « Windows a protégé votre ordinateur » :
-   cliquez sur « Informations complémentaires » puis « Exécuter quand même ».
-3. Cliquez sur « Installer ». Snapix s'installe pour votre compte uniquement.
-
-Raccourcis : Alt+Maj+4 = zone (ou touche Impr. écran), Alt+Maj+5 = fenêtre,
-Alt+Maj+3 = plein écran, Alt+Maj+2 = copier le texte. Icône dans la zone de notification.
-
 DANS L'ÉDITEUR
 Choisissez un outil (flèche, rectangle, texte, flou…), dessinez, puis déplacez la forme avec
 l'icône main ou agrandissez-la avec les poignées. « Copier » ou « Enregistrer » ferme l'éditeur.
